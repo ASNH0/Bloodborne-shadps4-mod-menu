@@ -1,0 +1,10 @@
+# build output
+*.exe
+*.pdb
+
+# per-user files created at runtime
+BloodborneModMenu.ini
+BloodborneModMenu.log
+
+# packaged downloads
+release/
