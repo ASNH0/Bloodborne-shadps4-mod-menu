@@ -1,5 +1,3 @@
-# Bloodborne-shadps4-mod-menu
-
 # Bloodborne Mod Menu for shadPS4
 
 A small pause-menu overlay for **Bloodborne (PS4) running in the [shadPS4](https://github.com/shadps4-emu/shadPS4) emulator** on Windows.
@@ -127,4 +125,3 @@ Run these from a command prompt while the game is running; results go to `Bloodb
 
 This is an unofficial fan project, not affiliated with or endorsed by FromSoftware, Sony Interactive Entertainment or the shadPS4 project.
 Use it at your own risk and keep a backup of your save data.
-<img width="350" height="471" alt="panel" src="https://github.com/user-attachments/assets/8ddcdc5a-1fff-44a7-b787-cddee5bc5ac6" />
